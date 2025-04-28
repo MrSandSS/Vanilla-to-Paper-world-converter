@@ -1,4 +1,4 @@
-# VanillaToPaperWorldConverter
+# Vanilla to Paper world converter
 
 
 # English
