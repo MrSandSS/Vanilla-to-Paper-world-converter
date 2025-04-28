@@ -19,7 +19,7 @@
 1. Download or clone this repository:
 
 ```bash
-git clone https://github.com/MrSandSS/VanillaToPaperWorldConverter.git
+git clone https://github.com/MrSandSS/Vanilla-to-Paper-world-converter
 ```
 
 2. Install required libraries:
@@ -83,7 +83,7 @@ Full license text can be found in the LICENSE file.
 1. Скачайте или клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/MrSandSS/VanillaToPaperWorldConverter.git
+git clone https://github.com/MrSandSS/Vanilla-to-Paper-world-converter
 ```
 
 2. Установите необходимые библиотеки:
