@@ -11,7 +11,7 @@
 - Correctly splits dimension data:
   - **Overworld** → `world`
   - **Nether (DIM-1)** → `world_nether`
-  - **End (DIM1)** → `world_the_end`
+  - **The End (DIM1)** → `world_the_end`
 - Simple and user-friendly console interface.
 
 ## Installation and Usage
@@ -73,10 +73,10 @@ Full license text can be found in the LICENSE file.
 
 - Автоматическое копирование основных данных мира.
 - Правильное разделение данных измерений:
-  - **Overworld** → `world`
-  - **Nether (DIM-1)** → `world_nether`
-  - **End (DIM1)** → `world_the_end`
-- Простой и понятный интерфейс через консоль.
+  - **Обычный мир** → `world`
+  - **Незер (DIM-1)** → `world_nether`
+  - **Энд (DIM1)** → `world_the_end`
+- Простой и понятный интерфейс в консоли.
 
 ## Установка и использование
 
