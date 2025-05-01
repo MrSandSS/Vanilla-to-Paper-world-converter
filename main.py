@@ -37,7 +37,7 @@ def convert():
     tqdm.tqdm(shutil.copytree('Vanilla_World//DIM-1', 'converted//world_nether//DIM-1'))
 
     print('Converting the end')
-    tqdm.tqdm(shutil.copytree('Vanilla_World//DIM-1', 'converted//world_the_end//DIM1'))
+    tqdm.tqdm(shutil.copytree('Vanilla_World//DIM1', 'converted//world_the_end//DIM1'))
 
 
 if __name__ == '__main__':
